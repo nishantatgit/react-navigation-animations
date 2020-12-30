@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-navigation-animations/static/css/main.65dcf2f6.chunk.css",
-    "main.js": "/react-navigation-animations/static/js/main.1024afe8.chunk.js",
-    "main.js.map": "/react-navigation-animations/static/js/main.1024afe8.chunk.js.map",
+    "main.css": "/react-navigation-animations/static/css/main.10625910.chunk.css",
+    "main.js": "/react-navigation-animations/static/js/main.c8f8821e.chunk.js",
+    "main.js.map": "/react-navigation-animations/static/js/main.c8f8821e.chunk.js.map",
     "runtime-main.js": "/react-navigation-animations/static/js/runtime-main.9fd14732.js",
     "runtime-main.js.map": "/react-navigation-animations/static/js/runtime-main.9fd14732.js.map",
     "static/js/2.b4bc478d.chunk.js": "/react-navigation-animations/static/js/2.b4bc478d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.6436de10.chunk.js": "/react-navigation-animations/static/js/3.6436de10.chunk.js",
     "static/js/3.6436de10.chunk.js.map": "/react-navigation-animations/static/js/3.6436de10.chunk.js.map",
     "index.html": "/react-navigation-animations/index.html",
-    "static/css/main.65dcf2f6.chunk.css.map": "/react-navigation-animations/static/css/main.65dcf2f6.chunk.css.map",
+    "static/css/main.10625910.chunk.css.map": "/react-navigation-animations/static/css/main.10625910.chunk.css.map",
     "static/js/2.b4bc478d.chunk.js.LICENSE.txt": "/react-navigation-animations/static/js/2.b4bc478d.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-navigation-animations/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9fd14732.js",
     "static/js/2.b4bc478d.chunk.js",
-    "static/css/main.65dcf2f6.chunk.css",
-    "static/js/main.1024afe8.chunk.js"
+    "static/css/main.10625910.chunk.css",
+    "static/js/main.c8f8821e.chunk.js"
   ]
 }
