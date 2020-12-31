@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-navigation-animations/static/css/main.10625910.chunk.css",
-    "main.js": "/react-navigation-animations/static/js/main.c8f8821e.chunk.js",
-    "main.js.map": "/react-navigation-animations/static/js/main.c8f8821e.chunk.js.map",
-    "runtime-main.js": "/react-navigation-animations/static/js/runtime-main.9fd14732.js",
-    "runtime-main.js.map": "/react-navigation-animations/static/js/runtime-main.9fd14732.js.map",
-    "static/js/2.b4bc478d.chunk.js": "/react-navigation-animations/static/js/2.b4bc478d.chunk.js",
-    "static/js/2.b4bc478d.chunk.js.map": "/react-navigation-animations/static/js/2.b4bc478d.chunk.js.map",
-    "static/js/3.6436de10.chunk.js": "/react-navigation-animations/static/js/3.6436de10.chunk.js",
-    "static/js/3.6436de10.chunk.js.map": "/react-navigation-animations/static/js/3.6436de10.chunk.js.map",
+    "main.css": "/react-navigation-animations/static/css/main.262022f6.chunk.css",
+    "main.js": "/react-navigation-animations/static/js/main.83fa2d92.chunk.js",
+    "main.js.map": "/react-navigation-animations/static/js/main.83fa2d92.chunk.js.map",
+    "runtime-main.js": "/react-navigation-animations/static/js/runtime-main.8dc7b67f.js",
+    "runtime-main.js.map": "/react-navigation-animations/static/js/runtime-main.8dc7b67f.js.map",
+    "static/js/2.4bc8c1b8.chunk.js": "/react-navigation-animations/static/js/2.4bc8c1b8.chunk.js",
+    "static/js/2.4bc8c1b8.chunk.js.map": "/react-navigation-animations/static/js/2.4bc8c1b8.chunk.js.map",
+    "static/js/3.19c6810a.chunk.js": "/react-navigation-animations/static/js/3.19c6810a.chunk.js",
+    "static/js/3.19c6810a.chunk.js.map": "/react-navigation-animations/static/js/3.19c6810a.chunk.js.map",
     "index.html": "/react-navigation-animations/index.html",
-    "static/css/main.10625910.chunk.css.map": "/react-navigation-animations/static/css/main.10625910.chunk.css.map",
-    "static/js/2.b4bc478d.chunk.js.LICENSE.txt": "/react-navigation-animations/static/js/2.b4bc478d.chunk.js.LICENSE.txt",
+    "static/css/main.262022f6.chunk.css.map": "/react-navigation-animations/static/css/main.262022f6.chunk.css.map",
+    "static/js/2.4bc8c1b8.chunk.js.LICENSE.txt": "/react-navigation-animations/static/js/2.4bc8c1b8.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/react-navigation-animations/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fd14732.js",
-    "static/js/2.b4bc478d.chunk.js",
-    "static/css/main.10625910.chunk.css",
-    "static/js/main.c8f8821e.chunk.js"
+    "static/js/runtime-main.8dc7b67f.js",
+    "static/js/2.4bc8c1b8.chunk.js",
+    "static/css/main.262022f6.chunk.css",
+    "static/js/main.83fa2d92.chunk.js"
   ]
 }
